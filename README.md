@@ -1,5 +1,5 @@
-# Task-4-Dashboard-Design
-# 📊 Task 4: Dashboard Design Project
+# Task-3-Dashboard-Design
+# 📊 Task 3: Dashboard Design Project
 
 ## 🎯 Objective
 The objective of this task is to **design an interactive business dashboard** that provides actionable insights for stakeholders.  
@@ -24,7 +24,7 @@ The dashboard should be built in **Power BI**, with a strong focus on usability,
 ---
 
 ## 📌 Task Details
-### Task 4: Dashboard Design
+### Task 3: Dashboard Design
 - ✅ Choose the **right KPIs** (e.g., Sales, Profit, Growth %).  
 - ✅ Add **slicers/filters** for interactivity (e.g., by Region, Category, Date).  
 - ✅ Include **time-series analysis** (Sales & Profit trends).  
